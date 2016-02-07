@@ -1,0 +1,3 @@
+#ignore the data file, it is too huge
+*.zip
+powerConsum.txt
